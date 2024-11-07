@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.homepage-text{
+  color: rgb(14, 109, 14); 
+}
+
+html {
+  scroll-behavior: smooth; 
+  scroll-margin-top: 100px ;
+}
+
+.playfair-font{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.container-home{
+  height: 100dvh;
+}
+
+.nav-link:hover{
+  color: rgb(14, 109, 14) !important;
+}
+
+.color{
+  color: rgb(14, 109, 14);
+}
+
+.color-2{
+  color: #6e6311;
+}
+
+.color-3{
+  color: #95600d;
+}
+
+.color-4{
+  color: #646156;
+}
+
+.color-5{
+  color: #6c6b44;
+}
